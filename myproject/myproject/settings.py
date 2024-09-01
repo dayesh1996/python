@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-@kqeb5x3y*a(5z#r25z^ugqm%lf%dhgc=p*sn6z_g%9q2(mjq-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['hrms.geekonomy.in']
 
 
 # Application definition
